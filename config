@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[svn-remote "svn"]
+	url = svn://svn6.apicloud.com/A6020587499956/%E8%8F%9C%E5%B8%82%E5%9C%BA%E5%95%86%E5%AE%B6
+	fetch = :refs/remotes/git-svn
+[user]
+	name = 203087869@qq.com
+	email = 203087869@qq.com
